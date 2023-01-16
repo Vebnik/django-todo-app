@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     'list_todo.apps.ListTodoConfig',
-    'create_todo.apps.CreateTodoConfig',
+    'myapi.apps.MyapiConfig',
 ]
 
 MIDDLEWARE = [
